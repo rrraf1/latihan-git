@@ -47,6 +47,8 @@
 }
 // perubahan 1
 // perubahan 2
+// Bismillah bisa. Gas CM fi
+
 
                 
 
