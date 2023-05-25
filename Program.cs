@@ -46,6 +46,10 @@
 
 }
 // perubahan 1
+class mobil
+{
+    int angka = 9;
+}
                 
 
 
