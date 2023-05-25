@@ -1,0 +1,60 @@
+C:\Users\asus\OneDrive\Desktop\orbit materi\tictactoe c#\bin\Debug\net6.0\tictactoe c#.exe
+C:\Users\asus\OneDrive\Desktop\orbit materi\tictactoe c#\bin\Debug\net6.0\tictactoe c#.deps.json
+C:\Users\asus\OneDrive\Desktop\orbit materi\tictactoe c#\bin\Debug\net6.0\tictactoe c#.runtimeconfig.json
+C:\Users\asus\OneDrive\Desktop\orbit materi\tictactoe c#\bin\Debug\net6.0\tictactoe c#.dll
+C:\Users\asus\OneDrive\Desktop\orbit materi\tictactoe c#\bin\Debug\net6.0\tictactoe c#.pdb
+C:\Users\asus\OneDrive\Desktop\orbit materi\tictactoe c#\obj\Debug\net6.0\tictactoe c#.csproj.AssemblyReference.cache
+C:\Users\asus\OneDrive\Desktop\orbit materi\tictactoe c#\obj\Debug\net6.0\tictactoe c#.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\asus\OneDrive\Desktop\orbit materi\tictactoe c#\obj\Debug\net6.0\tictactoe c#.AssemblyInfoInputs.cache
+C:\Users\asus\OneDrive\Desktop\orbit materi\tictactoe c#\obj\Debug\net6.0\tictactoe c#.AssemblyInfo.cs
+C:\Users\asus\OneDrive\Desktop\orbit materi\tictactoe c#\obj\Debug\net6.0\tictactoe c#.csproj.CoreCompileInputs.cache
+C:\Users\asus\OneDrive\Desktop\orbit materi\tictactoe c#\obj\Debug\net6.0\tictactoe c#.dll
+C:\Users\asus\OneDrive\Desktop\orbit materi\tictactoe c#\obj\Debug\net6.0\refint\tictactoe c#.dll
+C:\Users\asus\OneDrive\Desktop\orbit materi\tictactoe c#\obj\Debug\net6.0\tictactoe c#.pdb
+C:\Users\asus\OneDrive\Desktop\orbit materi\tictactoe c#\obj\Debug\net6.0\tictactoe c#.genruntimeconfig.cache
+C:\Users\asus\OneDrive\Desktop\orbit materi\tictactoe c#\obj\Debug\net6.0\ref\tictactoe c#.dll
+C:\Users\asus\OneDrive\Desktop\tictactoe c#\obj\Debug\net6.0\tictactoe c#.csproj.AssemblyReference.cache
+C:\Users\asus\OneDrive\Desktop\tictactoe c#\obj\Debug\net6.0\tictactoe c#.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\asus\OneDrive\Desktop\tictactoe c#\obj\Debug\net6.0\tictactoe c#.AssemblyInfoInputs.cache
+C:\Users\asus\OneDrive\Desktop\tictactoe c#\obj\Debug\net6.0\tictactoe c#.AssemblyInfo.cs
+C:\Users\asus\OneDrive\Desktop\tictactoe c#\obj\Debug\net6.0\tictactoe c#.csproj.CoreCompileInputs.cache
+C:\Users\asus\OneDrive\Desktop\tictactoe c#\obj\Debug\net6.0\tictactoe c#.dll
+C:\Users\asus\OneDrive\Desktop\tictactoe c#\obj\Debug\net6.0\refint\tictactoe c#.dll
+C:\Users\asus\OneDrive\Desktop\tictactoe c#\obj\Debug\net6.0\tictactoe c#.pdb
+C:\Users\asus\OneDrive\Desktop\tictactoe c#\bin\Debug\net6.0\tictactoe c#.exe
+C:\Users\asus\OneDrive\Desktop\tictactoe c#\bin\Debug\net6.0\tictactoe c#.deps.json
+C:\Users\asus\OneDrive\Desktop\tictactoe c#\bin\Debug\net6.0\tictactoe c#.runtimeconfig.json
+C:\Users\asus\OneDrive\Desktop\tictactoe c#\bin\Debug\net6.0\tictactoe c#.dll
+C:\Users\asus\OneDrive\Desktop\tictactoe c#\bin\Debug\net6.0\tictactoe c#.pdb
+C:\Users\asus\OneDrive\Desktop\tictactoe c#\obj\Debug\net6.0\tictactoe c#.genruntimeconfig.cache
+C:\Users\asus\OneDrive\Desktop\tictactoe c#\obj\Debug\net6.0\ref\tictactoe c#.dll
+C:\Users\asus\OneDrive\Desktop\orbit materi\method\bin\Debug\net6.0\tictactoe c#.exe
+C:\Users\asus\OneDrive\Desktop\orbit materi\method\bin\Debug\net6.0\tictactoe c#.deps.json
+C:\Users\asus\OneDrive\Desktop\orbit materi\method\bin\Debug\net6.0\tictactoe c#.runtimeconfig.json
+C:\Users\asus\OneDrive\Desktop\orbit materi\method\bin\Debug\net6.0\tictactoe c#.dll
+C:\Users\asus\OneDrive\Desktop\orbit materi\method\bin\Debug\net6.0\tictactoe c#.pdb
+C:\Users\asus\OneDrive\Desktop\orbit materi\method\obj\Debug\net6.0\tictactoe c#.csproj.AssemblyReference.cache
+C:\Users\asus\OneDrive\Desktop\orbit materi\method\obj\Debug\net6.0\tictactoe c#.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\asus\OneDrive\Desktop\orbit materi\method\obj\Debug\net6.0\tictactoe c#.AssemblyInfoInputs.cache
+C:\Users\asus\OneDrive\Desktop\orbit materi\method\obj\Debug\net6.0\tictactoe c#.AssemblyInfo.cs
+C:\Users\asus\OneDrive\Desktop\orbit materi\method\obj\Debug\net6.0\tictactoe c#.csproj.CoreCompileInputs.cache
+C:\Users\asus\OneDrive\Desktop\orbit materi\method\obj\Debug\net6.0\tictactoe c#.dll
+C:\Users\asus\OneDrive\Desktop\orbit materi\method\obj\Debug\net6.0\refint\tictactoe c#.dll
+C:\Users\asus\OneDrive\Desktop\orbit materi\method\obj\Debug\net6.0\tictactoe c#.pdb
+C:\Users\asus\OneDrive\Desktop\orbit materi\method\obj\Debug\net6.0\tictactoe c#.genruntimeconfig.cache
+C:\Users\asus\OneDrive\Desktop\orbit materi\method\obj\Debug\net6.0\ref\tictactoe c#.dll
+C:\Users\asus\OneDrive\Desktop\kode c#\orbit materi\method\bin\Debug\net6.0\tictactoe c#.exe
+C:\Users\asus\OneDrive\Desktop\kode c#\orbit materi\method\bin\Debug\net6.0\tictactoe c#.deps.json
+C:\Users\asus\OneDrive\Desktop\kode c#\orbit materi\method\bin\Debug\net6.0\tictactoe c#.runtimeconfig.json
+C:\Users\asus\OneDrive\Desktop\kode c#\orbit materi\method\bin\Debug\net6.0\tictactoe c#.dll
+C:\Users\asus\OneDrive\Desktop\kode c#\orbit materi\method\bin\Debug\net6.0\tictactoe c#.pdb
+C:\Users\asus\OneDrive\Desktop\kode c#\orbit materi\method\obj\Debug\net6.0\tictactoe c#.csproj.AssemblyReference.cache
+C:\Users\asus\OneDrive\Desktop\kode c#\orbit materi\method\obj\Debug\net6.0\tictactoe c#.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\asus\OneDrive\Desktop\kode c#\orbit materi\method\obj\Debug\net6.0\tictactoe c#.AssemblyInfoInputs.cache
+C:\Users\asus\OneDrive\Desktop\kode c#\orbit materi\method\obj\Debug\net6.0\tictactoe c#.AssemblyInfo.cs
+C:\Users\asus\OneDrive\Desktop\kode c#\orbit materi\method\obj\Debug\net6.0\tictactoe c#.csproj.CoreCompileInputs.cache
+C:\Users\asus\OneDrive\Desktop\kode c#\orbit materi\method\obj\Debug\net6.0\tictactoe c#.dll
+C:\Users\asus\OneDrive\Desktop\kode c#\orbit materi\method\obj\Debug\net6.0\refint\tictactoe c#.dll
+C:\Users\asus\OneDrive\Desktop\kode c#\orbit materi\method\obj\Debug\net6.0\tictactoe c#.pdb
+C:\Users\asus\OneDrive\Desktop\kode c#\orbit materi\method\obj\Debug\net6.0\tictactoe c#.genruntimeconfig.cache
+C:\Users\asus\OneDrive\Desktop\kode c#\orbit materi\method\obj\Debug\net6.0\ref\tictactoe c#.dll
